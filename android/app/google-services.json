@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "8359373488",
+    "project_id": "nutrigo-be7db",
+    "storage_bucket": "nutrigo-be7db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8359373488:android:bab53fe36828425fefe975",
+        "android_client_info": {
+          "package_name": "com.example.nutrigo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8359373488-c3mpmnjfat4jtgbbn0gafiv8rs3on7it.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nutrigo",
+            "certificate_hash": "2c1b6c462a8c23cf20c7ac260d4f3d600c29dcbd"
+          }
+        },
+        {
+          "client_id": "8359373488-d1oar8gg8l8db1i4brs47b034pngl3oo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmIVBWdw3kzDnPso3Z_cSU1o8U0y669mQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8359373488-d1oar8gg8l8db1i4brs47b034pngl3oo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "8359373488-053bv41dch45humntm5bo051k2i3rgpt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nutrigo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
